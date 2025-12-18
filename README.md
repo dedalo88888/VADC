@@ -50,3 +50,15 @@ Get 10 free proxies for testing and 10% off your first proxy purchase at [Websha
 🖱️ Right click: Destroy instance.
 🖱️ Left click + CTRL: Take screenshot.
 
+### Misc
+
+- CPU load and bandwidth can get heavy. Channels with 160p work best.
+- Tested on Windows 10 with headless ~100, headful ~30. Linux and macOS is experimental.
+
+The Crude Viewer Amplifier (CVAmp) is a small GUI tool that spawns muted Google Chrome instances via [Playwright](https://github.com/microsoft/playwright-python), each with a different HTTP proxy connection. Each instance navigates to the streaming channel and selects the lowest possible resolution.
+
+Read the comprehensive [wiki](https://github.com/dedalo88888/VADC/wiki) for a [detailed tutorial](https://github.com/dedalo88888/VADC/wiki), [usage tips](https://github.com/dedalo88888/VADC/wiki/Advanced-features-and-controls).
+
+### Full disclaimer
+
+This project was established to contribute to open-source collaboration and showcase the educational value of reverse engineering. Although its primary purpose is for learning and understanding, users must be aware that altering viewer metrics on platforms such as Twitch/Kick/Youtube/Instagram/Tiktok/Facebbok violates their Terms of Service and could lead to legal repercussions. We urge users to engage with this tool responsibly. Misuse is solely at your discretion and risk. Discussions promoting illegal activities will be promptly removed.
