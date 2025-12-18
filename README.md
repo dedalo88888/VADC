@@ -53,11 +53,13 @@ Get 10 free proxies for testing and 10% off your first proxy purchase at [Websha
 
 #### Controls and Color codes of the square boxes
 
-⬛ - Instance is spawned. 🟨 - Instance is buffering. 🟩 - Instance is actively watching.
+⬜​ - Not Instance Runnig. 🟨 - Instance is buffering. 🟩 - Instance is actively watching. 🟦​ - Instance is loggin in session correct.
 
-🖱️ Left click: Refresh page.
-🖱️ Right click: Destroy instance.
-🖱️ Left click + CTRL: Take screenshot.
+🖱️ Right click: Refresh - Refresh with F5 instance.
+
+🖱️ Right click: Kill instance. - Delete instance.
+
+🖱️ Right click: Screenshot - Saved in root folder.
 
 ### Misc
 
