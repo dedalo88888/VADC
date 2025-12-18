@@ -35,3 +35,18 @@ Ask questions in the [discussions](https://github.com/) or [report issues](https
 Get 10 free proxies for testing and 10% off your first proxy purchase at [Webshare.io]([https://blueloperlabs.ch/proxy/wf](https://www.webshare.io/?referral_code=ntobr3upq53t)).  
 
 - Chrome needs to be already installed on your system.
+
+
+### In Action
+
+![Dashborad](https://github.com/user-attachments/assets/9dd4e620-8f41-497c-ac49-44a0e364ce27)
+
+
+#### Controls and Color codes of the square boxes
+
+⬛ - Instance is spawned. 🟨 - Instance is buffering. 🟩 - Instance is actively watching.
+
+🖱️ Left click: Refresh page.
+🖱️ Right click: Destroy instance.
+🖱️ Left click + CTRL: Take screenshot.
+
