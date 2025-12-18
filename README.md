@@ -53,9 +53,9 @@ Get 10 free proxies for testing and 10% off your first proxy purchase at [Websha
 ### Misc
 
 - CPU load and bandwidth can get heavy. Channels with 160p work best.
-- Tested on Windows 10 with headless ~100, headful ~30. Linux and macOS is experimental.
+- Tested on Windows 11 with headless ~100, headful ~30.
 
-The Crude Viewer Amplifier (CVAmp) is a small GUI tool that spawns muted Google Chrome instances via [Playwright](https://github.com/microsoft/playwright-python), each with a different HTTP proxy connection. Each instance navigates to the streaming channel and selects the lowest possible resolution.
+The Viewer Amplifier With IA (VADC) is a small GUI tool that spawns muted Google Chrome instances via [Playwright](https://github.com/microsoft/playwright-python), each with a different HTTP proxy connection. Each instance navigates to the streaming channel and selects the lowest possible resolution.
 
 Read the comprehensive [wiki](https://github.com/dedalo88888/VADC/wiki) for a [detailed tutorial](https://github.com/dedalo88888/VADC/wiki), [usage tips](https://github.com/dedalo88888/VADC/wiki/Advanced-features-and-controls).
 
