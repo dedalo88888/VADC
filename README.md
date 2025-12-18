@@ -15,10 +15,12 @@ Platform              |      Twitch      |       Kick       |        Youtube    
 | Status Boxes Updates  | :x: |        :heavy\_check\_mark:        | :x: |
 | Login/Authentication  |        :x:        |        :heavy\_check\_mark:        |          :x:         |  
 | Automatic Chat        |        :x:       |        :heavy\_check\_mark:        |          :x:         |    
-| Automatic Follow      |        :x:        |       :heavy\_check\_mark:       |          :x:         |   
+| Automatic Follow      |        :x:        |       :x:       |          :x:         |   
 | Low CPU Usage Mode    |        :x:       |       :heavy\_check\_mark:       |          :x:         | 
+| IA - Reader Chat    |        :x:       |       💎​      |          :x:         | 
+| IA - Listen to Audio    |        :x:       |       💎​      |          :x:         | 
 
-:heavy_check_mark: Supported, :warning: Problems, :x: Unsupported, ⏳ In Development
+:heavy_check_mark: Supported, :warning: Problems, :x: Unsupported, ⏳ In Development, 💎​ Premium Users
 
 ### Getting Started
 
