@@ -19,6 +19,7 @@ Platform              |      Twitch      |       Kick       |        Youtube    
 | Low CPU Usage Mode    |        :x:       |       :heavy\_check\_mark:       |          :x:         | 
 | IA - Reader Chat    |        :x:       |       💎​      |          :x:         | 
 | IA - Listen to Audio    |        :x:       |       💎​      |          :x:         | 
+| IA - Humanization Features    |        :x:       |       💎​      |          :x:         | 
 | IA - Observe Stream    |        :x:       |       ⏳      |          :x:         | 
 
 :heavy_check_mark: Supported, :warning: Problems, :x: Unsupported, ⏳ In Development, 💎​ Premium Users
