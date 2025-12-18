@@ -26,5 +26,5 @@ Platform              |      Twitch      |       Kick       |        Youtube    
 2. Provide your proxies or follow our comprehensive [Proxies Guide](https://github.com/dedalo88888/VADC/wiki/Webshare.io-Proxies-Guide).  
    Get 10 free proxies for testing and 10% off your first proxy purchase at [Webshare.io]([https://blueloperlabs.ch/proxy/wf](https://www.webshare.io/?referral_code=ntobr3upq53t)).  
 
-Read the comprehensive [wiki](https://github.com/KevinBytesTheDust/cvamp/wiki) for [usage tips](https://github.com/KevinBytesTheDust/cvamp/wiki/Advanced-features-and-controls) and [troubleshooting steps](https://github.com/KevinBytesTheDust/cvamp/wiki/Troubleshooting).  
-Ask questions in the [discussions](https://github.com/KevinBytesTheDust/cvamp/discussions) or [report issues](https://github.com/KevinBytesTheDust/cvamp/issues).
+Read the comprehensive [wiki](https://github.com/dedalo88888/VADC/wiki) for [usage tips](https://github.com/) and [troubleshooting steps](https://github.com/).  
+Ask questions in the [discussions](https://github.com/) or [report issues](https://github.com/).
