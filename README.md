@@ -31,6 +31,13 @@ Platform              |      Twitch      |       Kick       |        Youtube    
 Read the comprehensive [wiki](https://github.com/dedalo88888/VADC/wiki) for [usage tips](https://github.com/dedalo88888/VADC/wiki/Advanced-features-and-controls) and [troubleshooting steps](https://github.com/).  
 Ask questions in the [discussions](https://github.com/) or [report issues](https://github.com/).
 
+### AI Power
+
+The AI Power system's chat module is capable of reading, listening, and observing to respond accordingly. Find more information [here](https://github.com/dedalo88888/VADC/wiki/AI-Power).
+<img width="796" height="529" alt="image" src="https://github.com/user-attachments/assets/ffd9d222-a941-404f-b896-aa1550cbdd75" />
+
+
+
 ### Mandatory Requirements
 
 - Provide your own private HTTP proxies to the [proxy_list.txt](Utilities/proxy_list.txt) or follow our [Proxies Guide](https://github.com/dedalo88888/VADC/wiki/Webshare.io-Proxies-Guide).  
