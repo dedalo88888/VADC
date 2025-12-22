@@ -27,7 +27,8 @@ Platform              |      Twitch      |       Kick       |        Youtube    
 ### Getting Started
 
 1. Download the one-file executable for Windows from the [latest VADC release](https://github.com/dedalo88888/VADC/releases/).
-2. Provide your proxies or follow our comprehensive [Proxies Guide](https://github.com/dedalo88888/VADC/wiki/Webshare.io-Proxies-Guide).  
+2. Complete Configuration [Guide for VADC Free and Premium](https://github.com/dedalo88888/VADC/wiki/VADC-Configuration). 
+3. Provide your proxies or follow our comprehensive [Proxies Guide](https://github.com/dedalo88888/VADC/wiki/Webshare.io-Proxies-Guide).  
    Get 10 free proxies for testing and 10% off your first proxy purchase at [Webshare.io]([https://blueloperlabs.ch/proxy/wf](https://www.webshare.io/?referral_code=ntobr3upq53t)).  
 
 Read the comprehensive [wiki](https://github.com/dedalo88888/VADC/wiki) for [usage tips](https://github.com/dedalo88888/VADC/wiki/Advanced-features-and-controls) and [troubleshooting steps](https://github.com/).  
