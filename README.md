@@ -6,21 +6,22 @@
 > **This software is a Proof of Concept (PoC) designed strictly for educational purposes regarding browser automation, AI integration, and network testing.**
 > **The developer discourages and condemns the use of this software for spamming, view-botting, or any activity that violates the Terms of Service of third-party platforms. Any discussion regarding malicious use will be removed.**
 
-### Platform Support Overview (2025.12.17)
+### Platform Support Overview (2026.02.18)
 
 Platform              |      Twitch      |       Kick       |        Youtube       |
 | --------------------- | :--------------: | :--------------: | :------------------: |
-| General Functionality |        ⏳       |        :heavy\_check\_mark:        | ⏳  |
-| Lowest Quality Select | :x: |        :heavy\_check\_mark:        | :x:| 
-| Status Boxes Updates  | :x: |        :heavy\_check\_mark:        | :x: |
-| Login/Authentication  |        :x:        |        :heavy\_check\_mark:        |          :x:         |  
-| Automatic Chat        |        :x:       |        :heavy\_check\_mark:        |          :x:         |    
-| Automatic Follow      |        :x:        |       :x:       |          :x:         |   
-| Low CPU Usage Mode    |        :x:       |       :heavy\_check\_mark:       |          :x:         | 
-| IA - Reader Chat    |        :x:       |       💎​      |          :x:         | 
-| IA - Listen to Audio    |        :x:       |       💎​      |          :x:         | 
-| IA - Humanization Features    |        :x:       |       💎​      |          :x:         | 
-| IA - Observe Stream    |        :x:       |       ⏳      |          :x:         | 
+| General Functionality |        ⏳       |        :heavy\_check\_mark:        | 💎​   |
+| Instance ilimited | :x: |        💎        | 💎​ |
+| Status Boxes Updates  | :x: |        :heavy\_check\_mark:        | 💎 |
+| Login/Authentication  |        :x:        |        :heavy\_check\_mark:        |          💎         |  
+| Automatic Chat        |        :x:       |        :heavy\_check\_mark:        |          💎         |    
+| Automatic Follow      |        :x:        |       :x:       |          💎         |   
+| Automatic Like      |        :x:        |       :x:       |          💎         |
+| Low CPU/RAM Usage Mode    |        :x:       |       :heavy\_check\_mark:       |          💎        | 
+| Ultra Low CPU/RAM Usage Mode    |        :x:       |       💎       |          💎        | 
+| Humanity Instance    |        :x:       |       💎       |          💎         | 
+| Cache/cookies Instance    |        :x:       |       💎       |          💎         | 
+| IA - Mode Answer - Listening/Reading    |        :x:       |       💎​      |          💎​         | 
 
 :heavy_check_mark: Supported, :warning: Problems, :x: Unsupported, ⏳ In Development, 💎​ Premium Users
 
