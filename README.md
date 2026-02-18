@@ -25,6 +25,8 @@ Platform              |      Twitch      |       Kick       |        Youtube    
 
 :heavy_check_mark: Supported, :warning: Problems, :x: Unsupported, ⏳ In Development, 💎​ Premium Users
 
+### 💎 [Unlock VADC Premium here](https://ko-fi.com/ddc_ddc)
+
 ### Getting Started
 
 1. Download the one-file executable for Windows from the [latest VADC release](https://github.com/dedalo88888/VADC/releases/).
