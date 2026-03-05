@@ -10,18 +10,18 @@
 
 Platform              |      Twitch      |       Kick       |        Youtube       |
 | --------------------- | :--------------: | :--------------: | :------------------: |
-| General Functionality |        ⏳       |        :heavy\_check\_mark:        | 💎​   |
-| Instance ilimited | :x: |        💎        | 💎​ |
-| Status Boxes Updates  | :x: |        :heavy\_check\_mark:        | 💎 |
-| Login/Authentication  |        :x:        |        :heavy\_check\_mark:        |          💎         |  
-| Automatic Chat        |        :x:       |        :heavy\_check\_mark:        |          💎         |    
-| Automatic Follow      |        :x:        |       :x:       |          💎         |   
-| Automatic Like      |        :x:        |       :x:       |          💎         |
-| Low CPU/RAM Usage Mode    |        :x:       |       :heavy\_check\_mark:       |          💎        | 
-| Ultra Low CPU/RAM Usage Mode    |        :x:       |       💎       |          💎        | 
-| Humanity Instance    |        :x:       |       💎       |          💎         | 
-| Cache/cookies Instance    |        :x:       |       💎       |          💎         | 
-| IA - Mode Answer - Listening/Reading    |        :x:       |       💎​      |          💎​         | 
+| General Functionality |        :heavy\_check\_mark:       |        :heavy\_check\_mark:        | 💎​   |
+| Instance ilimited | :heavy\_check\_mark: |        💎        | 💎​ |
+| Status Boxes Updates  | :heavy\_check\_mark: |        :heavy\_check\_mark:        | 💎 |
+| Login/Authentication  |        :heavy\_check\_mark:        |        :heavy\_check\_mark:        |          💎         |  
+| Automatic Chat        |        :heavy\_check\_mark:      |        :heavy\_check\_mark:        |          💎         |    
+| Automatic Follow      |        :heavy\_check\_mark:        |       :x:       |          💎         |   
+| Automatic Like      |        :heavy\_check\_mark:        |       :x:       |          💎         |
+| Low CPU/RAM Usage Mode    |        :heavy\_check\_mark:       |       :heavy\_check\_mark:       |          💎        | 
+| Ultra Low CPU/RAM Usage Mode    |        :heavy\_check\_mark:        |       💎       |          💎        | 
+| Humanity Instance    |        💎       |       💎       |          💎         | 
+| Cache/cookies Instance    |        💎       |       💎       |          💎         | 
+| IA - Mode Answer - Listening/Reading    |        💎       |       💎​      |          💎​         | 
 
 :heavy_check_mark: Supported, :warning: Problems, :x: Unsupported, ⏳ In Development, 💎​ Premium Users
 
