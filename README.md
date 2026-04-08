@@ -40,7 +40,8 @@ Ask questions in the [discussions](https://github.com/) or [report issues](https
 ### AI Power
 
 The AI Power system's chat module is capable of reading, listening, and observing to respond accordingly. Find more information [here](https://github.com/dedalo88888/VADC/wiki/AI-Power).
-<img width="796" height="529" alt="image" src="https://github.com/user-attachments/assets/ffd9d222-a941-404f-b896-aa1550cbdd75" />
+<img width="843" height="556" alt="image" src="https://github.com/user-attachments/assets/f1238d5b-4611-403b-ae30-e0871ab3f968" />
+
 
 
 
@@ -54,7 +55,7 @@ Get 10 free proxies for testing and 10% off your first proxy purchase at [Websha
 
 ### In Action
 
-![Dashborad](https://github.com/user-attachments/assets/9dd4e620-8f41-497c-ac49-44a0e364ce27)
+![Dashborad](https://github.com/user-attachments/assets/0760c719-6bea-4e65-a5fa-ad82868fa8a0)
 
 
 #### Controls and Color codes of the square boxes
