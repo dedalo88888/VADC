@@ -1,6 +1,6 @@
 # Viewer Amplifier With IA (VADC)
 
-<img width="324" height="2336" alt="Logo_VADC" src="https://github.com/user-attachments/assets/561db309-a4f9-433e-973c-89188f801f8e" />
+<img width="324" height="336" alt="Logo_VADC" src="https://github.com/user-attachments/assets/561db309-a4f9-433e-973c-89188f801f8e" />
 
 # ⚠️ DISCLAIMER: EDUCATIONAL PURPOSES ONLY
 > **This software is a Proof of Concept (PoC) designed strictly for educational purposes regarding browser automation, AI integration, and network testing.**
